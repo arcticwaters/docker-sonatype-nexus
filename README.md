@@ -1,7 +1,7 @@
-Nexus
-=====
+Sonatype Nexus
+==============
 
-This repository contains building a [docker](https://docker.io) image of [Sonatype Nexus](http://www.sonatype.org/nexus).
+This repository contains a [docker](https://docker.io) image of [Sonatype Nexus](http://www.sonatype.org/nexus).
 
 
 # Usage
