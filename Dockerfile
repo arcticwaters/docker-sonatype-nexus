@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM debian:stable
 MAINTAINER Andrew Schurman "arcticwaters@gmail.com"
 
 RUN apt-get update && apt-get install --no-install-recommends -y openjdk-7-jre-headless procps
